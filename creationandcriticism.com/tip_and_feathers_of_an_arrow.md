@@ -64,6 +64,16 @@ Section 238 of the Contract Act provides for the latin maxim; *qui facit per ali
 
 The Act 6 of 1899 updated the position of Contract Law in the existence of undue influence and placed the onus of proof that a transaction is unconscionable on the person in the position to dominate will and obtain an unfair advantage. The update also provided for the stand of law in specific cases of parental influence, patient vulnerability, financial institutions and banks. *Interpretation from: SCC Online, Legislation, Central Act & Rules, Contract Act, 1872*
 
+Section 21, effect of mistakes of law
+
+Section 30, agreements by wager void
+Chapter III of contingent contracts
+
+Section 56, distinction between impossibility and frustration
+
+
+
+
 
 
 ### The Specific Relief Act, 1963
